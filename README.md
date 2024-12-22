@@ -34,7 +34,7 @@ Detailed information can be found in our survey paper.
 - **Implicit Feedback**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | --- | -|
 |Blurring-sharpening process models for collaborative filtering| SIGIR 2023 | [Link](https://arxiv.org/abs/2211.09324)|
 |Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2409.10494)|
 |Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity | SIGIR 2024 | [Link](https://arxiv.org/abs/2404.14240)|
@@ -49,14 +49,14 @@ Detailed information can be found in our survey paper.
 - **Explicit Rating**
   
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | --- | -|
 |DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
 |EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | [Link](https://arxiv.org/abs/2409.14689)|
 
 - **Item Graph**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
 |Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | [Link](https://arxiv.org/abs/2312.16890)|
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | [Link](https://ieeexplore.ieee.org/document/10750895)|
@@ -65,7 +65,7 @@ Detailed information can be found in our survey paper.
 - **User Graph**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Diffusion social augmentation for social recommendation | Supercomputing 2025 | [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
 |Recdiff: diffusion model for social recommendation | CIKM 2024 | [Link](https://arxiv.org/abs/2406.01629)|
 
@@ -76,7 +76,7 @@ Detailed information can be found in our survey paper.
 - **Point-of-interest**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Diffusion-based cloud-edge-device collaborative learning for next POI recommendations | KDD 2024 | [Link](https://arxiv.org/abs/2405.13811)|
 |Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation | IoT 2024 | [Link](https://ieeexplore.ieee.org/document/10640103)|
 |A diffusion model for poi recommendation | TOIS 2023 | [Link](https://arxiv.org/abs/2304.07041)|
@@ -85,7 +85,7 @@ Detailed information can be found in our survey paper.
 - **Sequence as Diffusion Target and Guidance**
   
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Diffusion-based Contrastive Learning for Sequential Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2405.09369)|
 |Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.21967)|
 |Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 | [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
@@ -93,7 +93,7 @@ Detailed information can be found in our survey paper.
 - **Sequence as Diffusion Target**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Discrete conditional diffusion for reranking in recommendation | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3648313)|
 |Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model | NeurIPS 2024 | [Link](https://arxiv.org/abs/2410.23994)|
 |Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 | [Link](https://dl.acm.org/doi/10.1145/3688570)|
@@ -108,7 +108,7 @@ Detailed information can be found in our survey paper.
 - **Sequence as Diffusion Guidance**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Conditional denoising diffusion for sequential recommendation | PAKDD 2024 | [Link](https://arxiv.org/abs/2304.11433)|
 |Sequential recommendation with diffusion models | Arxiv 2023 | [Link](https://arxiv.org/abs/2304.04541)|
 |Diffusion Recommendation with Implicit Sequence Influence | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3651951)|
@@ -128,7 +128,7 @@ Detailed information can be found in our survey paper.
 - **Image Generation**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting | Arxiv 2023 | [Link](https://arxiv.org/abs/2309.11507)|
 |A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model | WWW 2024 | [Link](https://arxiv.org/abs/2401.10934)|
 |Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce | Recsys 2024 | [Link](https://arxiv.org/abs/2408.12392)|
@@ -138,13 +138,13 @@ Detailed information can be found in our survey paper.
 - **Text-to-recommendation**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Diffusion Model for Slate Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2408.06883)|
 
 - **Multi-modal Attributes**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |DiffMM: Multi-Modal Diffusion Model for Recommendation | MM 2024 | [Link](https://arxiv.org/abs/2406.11781)|
 |LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation | Arxiv 2023 | [Link](https://arxiv.org/abs/2309.15363)|
 |Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
@@ -153,7 +153,7 @@ Detailed information can be found in our survey paper.
 - **Cross-domain**
   
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Diffusion Cross-domain Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2402.02182)|
 |Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation | WSDM 2024 | [Link](https://dl.acm.org/doi/10.1145/3616855.3635807)|
 
@@ -164,7 +164,7 @@ Detailed information can be found in our survey paper.
 - **Fairness**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias | Arxiv 2024 | [Link](https://arxiv.org/abs/2405.16772)|
 |Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences | Arxiv 2024 | [Link](https://arxiv.org/abs/2411.11240)|
 |Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.21892)|
@@ -174,7 +174,7 @@ Detailed information can be found in our survey paper.
 - **Accountability**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Manipulating Visually Aware Federated Recommender Systems and Its Countermeasures | TOIS 2023 | [Link](https://dl.acm.org/doi/10.1145/3630005)|
 |Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion | TOIS 2024 | [Link](https://dl.acm.org/doi/10.1145/3666088)|
 |Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.10639)|
@@ -184,11 +184,11 @@ Detailed information can be found in our survey paper.
 -  **Transparency**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |An Explainable Recommendation Method based on Diffusion Model | BigDIA 2023 | [Link](https://ieeexplore.ieee.org/document/10429319)|
 
 - **Out-of-distribution**
 
 |Title | Venue | Paper|
-|------------- | --- | ---|
+|--- | - | -|
 |Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2408.00490)|
