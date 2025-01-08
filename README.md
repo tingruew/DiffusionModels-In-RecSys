@@ -1,4 +1,4 @@
-# Awesome Diffusion Models In Recommender Systems
+# Diffusion Models In Recommender Systems
 
 A list of publications using diffusion models in recommender systems.
 
