@@ -2,6 +2,8 @@
 
 A list of publications using diffusion models in recommender systems.
 
+![](taxonomy.png)
+
 Detailed information can be found in our survey paper.
 
 ## Table of Contents
