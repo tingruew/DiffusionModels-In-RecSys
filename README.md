@@ -1,11 +1,19 @@
-# Diffusion Models In Recommender Systems
+# Diffusion Models In Recommendation Systems
 
-A list of publications using diffusion models in recommender systems.
+A survey of diffusion models in recommendation systems.
 
 ![](taxonomy.png)
 
-Detailed information can be found in our survey paper.
+Detailed information can be found in our [survey paper](https://arxiv.org/pdf/2501.10548).
 
+```Bibtex
+@article{wei2025diffusion,
+  title={Diffusion Models in Recommendation Systems: A Survey},
+  author={Wei, Ting-Ruen and Fang, Yi},
+  journal={arXiv preprint arXiv:2501.10548},
+  year={2025}
+}
+```
 ## Table of Contents
 - [Background in Diffusion Models](#background-in-diffusion-models)
 - [Papers for Diffusion Models in Recsys](#papers-for-diffusion-models-in-recsys)
