@@ -67,17 +67,17 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 | <img width="800" alt="image" src="images/item graph/DICES.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
-|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="800" alt="image" src="images/item graph/Diffkg">| [Link](https://arxiv.org/abs/2312.16890)|
-|G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
-|Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph">| [Link](https://arxiv.org/abs/2311.08744)|
+|DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 |<img width="800" alt="image" src="images/item graph/DICES.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
+|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="800" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
+|G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
+|Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="1200" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 
 - **User Graph**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Diffusion social augmentation for social recommendation | Supercomputing 2025 | <img width="800" alt="image" src="images/user graph/Diffusion">| [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
-|Recdiff: diffusion model for social recommendation | CIKM 2024 | <img width="800" alt="image" src="images/user graph/Recdiff">| [Link](https://arxiv.org/abs/2406.01629)|
+|Diffusion social augmentation for social recommendation | Supercomputing 2025 | <img width="800" alt="image" src="images/user graph/Diffusion.png">| [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
+|Recdiff: diffusion model for social recommendation | CIKM 2024 | <img width="800" alt="image" src="images/user graph/Recdiff.png">| [Link](https://arxiv.org/abs/2406.01629)|
 
 ---
 
