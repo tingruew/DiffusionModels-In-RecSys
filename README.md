@@ -60,8 +60,8 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="1000" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
-|EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="400" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
+|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="1600" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
+|EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="300" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
 
 - **Item Graph**
 
