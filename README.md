@@ -45,10 +45,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Blurring-sharpening process models for collaborative filtering| SIGIR 2023 | <img width="800" alt="image" src="images/implicit feedback/blurring-sharpening.png"> | [Link](https://arxiv.org/abs/2211.09324)|
+|Blurring-sharpening process models for collaborative filtering| SIGIR 2023 | <img width="1200" alt="image" src="images/implicit feedback/blurring-sharpening.png"> | [Link](https://arxiv.org/abs/2211.09324)|
 |Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/incorporating.png"> | [Link](https://arxiv.org/abs/2409.10494)|
 |Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity | SIGIR 2024 | <img width="800" alt="image" src="images/implicit feedback/collaborative.png"> | [Link](https://arxiv.org/abs/2404.14240)|
-|Recommendation via collaborative diffusion generative model | KSEM 2022 | <img width="200" alt="image" src="images/implicit feedback/recommendation.png"> | [Link](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_47)|
+|Recommendation via collaborative diffusion generative model | KSEM 2022 | <img width="300" alt="image" src="images/implicit feedback/recommendation.png"> | [Link](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_47)|
 |Denoising diffusion recommender model | SIGIR 2024 | <img width="800" alt="image" src="images/implicit feedback/denoising.png"> | [Link](https://arxiv.org/abs/2401.06982)|
 |A Directional Diffusion Graph Transformer for Recommendation | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/A.png"> | [Link](https://arxiv.org/abs/2404.03326)|
 |Diffusion recommender model | SIGIR 2023 | <img width="800" alt="image" src="images/implicit feedback/diffusion.png"> | [Link](https://arxiv.org/abs/2304.04971)|
@@ -60,7 +60,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="800" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
+|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="1000" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
 |EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="400" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
 
 - **Item Graph**
@@ -68,16 +68,16 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 |<img width="800" alt="image" src="images/item graph/DICES.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
-|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="800" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
+|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
-|Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="1200" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
+|Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 
 - **User Graph**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Diffusion social augmentation for social recommendation | Supercomputing 2025 | <img width="800" alt="image" src="images/user graph/Diffusion.png">| [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
-|Recdiff: diffusion model for social recommendation | CIKM 2024 | <img width="800" alt="image" src="images/user graph/Recdiff.png">| [Link](https://arxiv.org/abs/2406.01629)|
+|Diffusion social augmentation for social recommendation | Supercomputing 2025 | <img width="1200" alt="image" src="images/user graph/Diffusion.png">| [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
+|Recdiff: diffusion model for social recommendation | CIKM 2024 | <img width="1200" alt="image" src="images/user graph/Recdiff.png">| [Link](https://arxiv.org/abs/2406.01629)|
 
 ---
 
