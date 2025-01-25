@@ -137,35 +137,35 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 - **Image Generation**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting | Arxiv 2023 | [Link](https://arxiv.org/abs/2309.11507)|
-|A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model | WWW 2024 | [Link](https://arxiv.org/abs/2401.10934)|
-|Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce | Recsys 2024 | [Link](https://arxiv.org/abs/2408.12392)|
-|Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 | [Link](https://arxiv.org/abs/2402.17279)|
-|GEMRec: Towards Generative Model Recommendation | WSDM 2024 | [Link](https://arxiv.org/abs/2308.02205)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting | Arxiv 2023 |<img width="1200" alt="image" src="images/image generation/Adbooster.png">| [Link](https://arxiv.org/abs/2309.11507)|
+|A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model | WWW 2024 |<img width="1200" alt="image" src="images/image generation/A.png">| [Link](https://arxiv.org/abs/2401.10934)|
+|Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce | Recsys 2024 |<img width="200" alt="image" src="images/image generation/Dynamic.png">| [Link](https://arxiv.org/abs/2408.12392)|
+|Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 |<img width="1200" alt="image" src="images/image generation/Diffusion.png">| [Link](https://arxiv.org/abs/2402.17279)|
+|GEMRec: Towards Generative Model Recommendation | WSDM 2024 |<img width="1200" alt="image" src="images/image generation/GEMRec.png">| [Link](https://arxiv.org/abs/2308.02205)|
 
 - **Text-to-recommendation**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Diffusion Model for Slate Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2408.06883)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Diffusion Model for Slate Recommendation | Arxiv 2024 |<img width="500" alt="image" src="images/text to rec/Diffusion.png">| [Link](https://arxiv.org/abs/2408.06883)|
 
 - **Multi-modal Attributes**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|DiffMM: Multi-Modal Diffusion Model for Recommendation | MM 2024 | [Link](https://arxiv.org/abs/2406.11781)|
-|LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation | Arxiv 2023 | [Link](https://arxiv.org/abs/2309.15363)|
-|Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
-|Diffusion Review-Based Recommendation | KSEM 2024 | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|DiffMM: Multi-Modal Diffusion Model for Recommendation | MM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffmm.png">| [Link](https://arxiv.org/abs/2406.11781)|
+|LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation | Arxiv 2023 |<img width="1200" alt="image" src="images/multi-modal/LD4mrec.png">| [Link](https://arxiv.org/abs/2309.15363)|
+|Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 |<img width="1200" alt="image" src="images/multi-modal/Multimodal.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
+|Diffusion Review-Based Recommendation | KSEM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffusion.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
 
 - **Cross-domain**
   
-|Title | Venue | Paper|
-|--- | - | -|
-|Diffusion Cross-domain Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2402.02182)|
-|Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation | WSDM 2024 | [Link](https://dl.acm.org/doi/10.1145/3616855.3635807)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Diffusion Cross-domain Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/cross-domain/Diffusion.png">| [Link](https://arxiv.org/abs/2402.02182)|
+|Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation | WSDM 2024 |<img width="250" alt="image" src="images/cross-domain/Diff-msr.png">| [Link](https://dl.acm.org/doi/10.1145/3616855.3635807)|
 
 ---
 
