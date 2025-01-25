@@ -173,32 +173,32 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 - **Fairness**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias | Arxiv 2024 | [Link](https://arxiv.org/abs/2405.16772)|
-|Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences | Arxiv 2024 | [Link](https://arxiv.org/abs/2411.11240)|
-|Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.21892)|
-|DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.02791)|
-|How Fair is Your Diffusion Recommender Model? | Arxiv 2024 | [Link](https://arxiv.org/abs/2409.04339)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Balancing.png">| [Link](https://arxiv.org/abs/2405.16772)|
+|Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Controlling.png">| [Link](https://arxiv.org/abs/2411.11240)|
+|Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation | Arxiv 2024 |<img width="250" alt="image" src="images/fairness/Guided.png">| [Link](https://arxiv.org/abs/2410.21892)|
+|DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Diffairec.png">| [Link](https://arxiv.org/abs/2410.02791)|
+|How Fair is Your Diffusion Recommender Model? | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/How.png">| [Link](https://arxiv.org/abs/2409.04339)|
 
 - **Accountability**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Manipulating Visually Aware Federated Recommender Systems and Its Countermeasures | TOIS 2023 | [Link](https://dl.acm.org/doi/10.1145/3630005)|
-|Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion | TOIS 2024 | [Link](https://dl.acm.org/doi/10.1145/3666088)|
-|Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.10639)|
-|Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems | Access 2024 | [Link](https://arxiv.org/abs/2311.03488)|
-|ToDA: Target-oriented Diffusion Attacker against Recommendation System | Arxiv 2024 | [Link](https://arxiv.org/abs/2401.12578)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Manipulating Visually Aware Federated Recommender Systems and Its Countermeasures | TOIS 2023 |<img width="1200" alt="image" src="images/accountability/Manipulating.png">| [Link](https://dl.acm.org/doi/10.1145/3630005)|
+|Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion | TOIS 2024 |<img width="1200" alt="image" src="images/accountability/Adversarial.png">| [Link](https://dl.acm.org/doi/10.1145/3666088)|
+|Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/accountability/Generating.png">| [Link](https://arxiv.org/abs/2410.10639)|
+|Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems | Access 2024 |<img width="1200" alt="image" src="images/accountability/Multi-resolution.png">| [Link](https://arxiv.org/abs/2311.03488)|
+|ToDA: Target-oriented Diffusion Attacker against Recommendation System | Arxiv 2024 |<img width="1200" alt="image" src="images/accountability/ToDA.png">| [Link](https://arxiv.org/abs/2401.12578)|
 
 -  **Transparency**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|An Explainable Recommendation Method based on Diffusion Model | BigDIA 2023 | [Link](https://ieeexplore.ieee.org/document/10429319)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|An Explainable Recommendation Method based on Diffusion Model | BigDIA 2023 |<img width="1200" alt="image" src="images/transparency/An.png">| [Link](https://ieeexplore.ieee.org/document/10429319)|
 
 - **Out-of-distribution**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2408.00490)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/out of distribution/Graph.png">| [Link](https://arxiv.org/abs/2408.00490)|
