@@ -85,51 +85,51 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 - **Point-of-interest**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Diffusion-based cloud-edge-device collaborative learning for next POI recommendations | KDD 2024 | [Link](https://arxiv.org/abs/2405.13811)|
-|Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation | IoT 2024 | [Link](https://ieeexplore.ieee.org/document/10640103)|
-|A diffusion model for poi recommendation | TOIS 2023 | [Link](https://arxiv.org/abs/2304.07041)|
-|DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Diffusion-based cloud-edge-device collaborative learning for next POI recommendations | KDD 2024 |<img width="1200" alt="image" src="images/POI/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.13811)|
+|Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation | IoT 2024 |<img width="1200" alt="image" src="images/POI/Diff-DGMN.png">| [Link](https://ieeexplore.ieee.org/document/10640103)|
+|A diffusion model for poi recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/POI/A.png">| [Link](https://arxiv.org/abs/2304.07041)|
+|DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 |<img width="1200" alt="image" src="images/POI/DSDRec.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
 
 - **Sequence as Diffusion Target and Guidance**
   
-|Title | Venue | Paper|
-|--- | - | -|
-|Diffusion-based Contrastive Learning for Sequential Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2405.09369)|
-|Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.21967)|
-|Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 | [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Diffusion-based Contrastive Learning for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.09369)|
+|Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Dual.png">| [Link](https://arxiv.org/abs/2410.21967)|
+|Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 |<img width="1200" alt="image" src="images/target and guidance/Semantic-aware.png">| [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
 
 - **Sequence as Diffusion Target**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Discrete conditional diffusion for reranking in recommendation | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3648313)|
-|Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model | NeurIPS 2024 | [Link](https://arxiv.org/abs/2410.23994)|
-|Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 | [Link](https://dl.acm.org/doi/10.1145/3688570)|
-|A Diffusion Data Enhancement Retentive Model for Sequential Recommendation | CISAT 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10695308)|
-|Diff4rec: Sequential recommendation with curriculum-scheduled diffusion augmentation | MM 2023 | [Link](https://dl.acm.org/doi/10.1145/3581783.3612709)|
-|Diffusion augmentation for sequential recommendation | CIKM 2023 | [Link](https://arxiv.org/abs/2309.12858)|
-|Multi-Interest Network with Simple Diffusion for Multi-Behavior Sequential Recommendation | SDM 2024 | [Link](https://epubs.siam.org/doi/10.1137/1.9781611978032.84)|
-|Plug-in diffusion model for sequential recommendation | AAAI 2024 | [Link](https://arxiv.org/abs/2401.02913)|
-|SeeDRec: Sememe-based Diffusion for Sequential Recommendation | IJCAI 2024 | [Link](https://www.ijcai.org/proceedings/2024/251)|
-|Bridging User Dynamics: Transforming Sequential Recommendations with Schr{\"o}dinger Bridge and Diffusion Models | CIKM 2024 | [Link](https://arxiv.org/abs/2409.10522)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Discrete conditional diffusion for reranking in recommendation | WWW 2024 |<img width="1200" alt="image" src="images/target/Discrete.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3648313)|
+|Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model | NeurIPS 2024 |<img width="1200" alt="image" src="images/target/Breaking.png">| [Link](https://arxiv.org/abs/2410.23994)|
+|Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 |<img width="1200" alt="image" src="images/target/Federated.png">| [Link](https://dl.acm.org/doi/10.1145/3688570)|
+|A Diffusion Data Enhancement Retentive Model for Sequential Recommendation | CISAT 2024 |<img width="1200" alt="image" src="images/target/A.png">| [Link](https://ieeexplore.ieee.org/abstract/document/10695308)|
+|Diff4rec: Sequential recommendation with curriculum-scheduled diffusion augmentation | MM 2023 |<img width="1200" alt="image" src="images/target/Diff4rec.png">| [Link](https://dl.acm.org/doi/10.1145/3581783.3612709)|
+|Diffusion augmentation for sequential recommendation | CIKM 2023 |<img width="1200" alt="image" src="images/target/Diffusion.png">| [Link](https://arxiv.org/abs/2309.12858)|
+|Multi-Interest Network with Simple Diffusion for Multi-Behavior Sequential Recommendation | SDM 2024 |<img width="1200" alt="image" src="images/target/Multi-interest.png">| [Link](https://epubs.siam.org/doi/10.1137/1.9781611978032.84)|
+|Plug-in diffusion model for sequential recommendation | AAAI 2024 |<img width="1200" alt="image" src="images/target/Plug-in.png">| [Link](https://arxiv.org/abs/2401.02913)|
+|SeeDRec: Sememe-based Diffusion for Sequential Recommendation | IJCAI 2024 |<img width="1200" alt="image" src="images/target/SeeDRec.png">| [Link](https://www.ijcai.org/proceedings/2024/251)|
+|Bridging User Dynamics: Transforming Sequential Recommendations with Schr{\"o}dinger Bridge and Diffusion Models | CIKM 2024 |<img width="1200" alt="image" src="images/target/Bridging.png">| [Link](https://arxiv.org/abs/2409.10522)|
 
 - **Sequence as Diffusion Guidance**
 
-|Title | Venue | Paper|
-|--- | - | -|
-|Conditional denoising diffusion for sequential recommendation | PAKDD 2024 | [Link](https://arxiv.org/abs/2304.11433)|
-|Sequential recommendation with diffusion models | Arxiv 2023 | [Link](https://arxiv.org/abs/2304.04541)|
-|Diffusion Recommendation with Implicit Sequence Influence | WWW 2024 | [Link](https://dl.acm.org/doi/10.1145/3589335.3651951)|
-|Diffurec: A diffusion model for sequential recommendation | TOIS 2023 | [Link](https://dl.acm.org/doi/10.1145/3631116)|
-|DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | Arxiv 2024 | [Link](https://arxiv.org/abs/2408.12153)|
-|Generate what you prefer: Reshaping sequential recommendation via guided diffusion | NeurIPS 2024 | [Link](https://arxiv.org/abs/2310.20453)|
-|EDiffuRec: An Enhanced Diffusion Model for Sequential Recommendation | Mathematics 2024 | [Link](https://www.mdpi.com/2227-7390/12/12/1795)|
-|Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.13428)|
-|Implicit local--global feature extraction for diffusion sequence recommendation | EAAI 2025 | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016294)|
-|LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion | ICIC 2024 | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)|
-|Preference Diffusion for Recommendation | Arxiv 2024 | [Link](https://arxiv.org/abs/2410.13117)|
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Conditional denoising diffusion for sequential recommendation | PAKDD 2024 |<img width="1200" alt="image" src="images/guidance/Conditional.png">| [Link](https://arxiv.org/abs/2304.11433)|
+|Sequential recommendation with diffusion models | Arxiv 2023 |<img width="1200" alt="image" src="images/guidance/Sequential.png">| [Link](https://arxiv.org/abs/2304.04541)|
+|Diffusion Recommendation with Implicit Sequence Influence | WWW 2024 |<img width="1200" alt="image" src="images/guidance/Diffusion.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651951)|
+|Diffurec: A diffusion model for sequential recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/guidance/Diffurec.png">| [Link](https://dl.acm.org/doi/10.1145/3631116)|
+|DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Dimerec.png">| [Link](https://arxiv.org/abs/2408.12153)|
+|Generate what you prefer: Reshaping sequential recommendation via guided diffusion | NeurIPS 2024 |<img width="300" alt="image" src="images/guidance/Generate.png">| [Link](https://arxiv.org/abs/2310.20453)|
+|EDiffuRec: An Enhanced Diffusion Model for Sequential Recommendation | Mathematics 2024 |<img width="1200" alt="image" src="images/guidance/EDiffurec.png">| [Link](https://www.mdpi.com/2227-7390/12/12/1795)|
+|Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Instantiate.png">| [Link](https://arxiv.org/abs/2410.13428)|
+|Implicit local--global feature extraction for diffusion sequence recommendation | EAAI 2025 |<img width="1200" alt="image" src="images/guidance/Implicit.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016294)|
+|LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion | ICIC 2024 |<img width="1200" alt="image" src="images/guidance/Leadrec.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)|
+|Preference Diffusion for Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Preference.png">| [Link](https://arxiv.org/abs/2410.13117)|
 
 ---
 
