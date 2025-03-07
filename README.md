@@ -53,7 +53,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |A Directional Diffusion Graph Transformer for Recommendation | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/A.png"> | [Link](https://arxiv.org/abs/2404.03326)|
 |Diffusion recommender model | SIGIR 2023 | <img width="800" alt="image" src="images/implicit feedback/diffusion.png"> | [Link](https://arxiv.org/abs/2304.04971)|
 |Recfusion: A binomial diffusion process for 1d data for recommendation | Arxiv 2023 | <img width="800" alt="image" src="images/implicit feedback/recfusion.png"> | [Link](https://arxiv.org/abs/2306.08947)|
-|Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/stochastic.png"> | [Link](https://arxiv.org/abs/2405.00287)|
+|SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation | WSDM 2025 | <img width="800" alt="image" src="images/implicit feedback/stochastic.png"> | [Link](https://arxiv.org/abs/2405.00287)|
 |Effects of Using Synthetic Data on Deep Recommender Models' Performance | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/effects.png"> | [Link](https://arxiv.org/abs/2406.18286)|
 
 - **Explicit Rating**
