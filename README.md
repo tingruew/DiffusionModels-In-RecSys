@@ -123,7 +123,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Sequential recommendation with diffusion models | Arxiv 2023 |<img width="1200" alt="image" src="images/guidance/Sequential.png">| [Link](https://arxiv.org/abs/2304.04541)|
 |Diffusion Recommendation with Implicit Sequence Influence | WWW 2024 |<img width="1200" alt="image" src="images/guidance/Diffusion.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651951)|
 |Diffurec: A diffusion model for sequential recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/guidance/Diffurec.png">| [Link](https://dl.acm.org/doi/10.1145/3631116)|
-|DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Dimerec.png">| [Link](https://arxiv.org/abs/2408.12153)|
+|DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | WSDM 2025 |<img width="1200" alt="image" src="images/guidance/Dimerec.png">| [Link](https://arxiv.org/abs/2408.12153)|
 |Generate what you prefer: Reshaping sequential recommendation via guided diffusion | NeurIPS 2024 |<img width="300" alt="image" src="images/guidance/Generate.png">| [Link](https://arxiv.org/abs/2310.20453)|
 |EDiffuRec: An Enhanced Diffusion Model for Sequential Recommendation | Mathematics 2024 |<img width="1200" alt="image" src="images/guidance/EDiffurec.png">| [Link](https://www.mdpi.com/2227-7390/12/12/1795)|
 |Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Instantiate.png">| [Link](https://arxiv.org/abs/2410.13428)|
@@ -139,7 +139,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting | Arxiv 2023 |<img width="1200" alt="image" src="images/image generation/Adbooster.png">| [Link](https://arxiv.org/abs/2309.11507)|
+|AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting | Recsys 2023 |<img width="1200" alt="image" src="images/image generation/Adbooster.png">| [Link](https://arxiv.org/abs/2309.11507)|
 |A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model | WWW 2024 |<img width="1200" alt="image" src="images/image generation/A.png">| [Link](https://arxiv.org/abs/2401.10934)|
 |Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce | Recsys 2024 |<img width="200" alt="image" src="images/image generation/Dynamic.png">| [Link](https://arxiv.org/abs/2408.12392)|
 |Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 |<img width="1200" alt="image" src="images/image generation/Diffusion.png">| [Link](https://arxiv.org/abs/2402.17279)|
@@ -175,7 +175,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Balancing.png">| [Link](https://arxiv.org/abs/2405.16772)|
+|Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias | NN 2025 |<img width="1200" alt="image" src="images/fairness/Balancing.png">| [Link](https://arxiv.org/abs/2405.16772)|
 |Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Controlling.png">| [Link](https://arxiv.org/abs/2411.11240)|
 |Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation | Arxiv 2024 |<img width="250" alt="image" src="images/fairness/Guided.png">| [Link](https://arxiv.org/abs/2410.21892)|
 |DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Diffairec.png">| [Link](https://arxiv.org/abs/2410.02791)|
@@ -201,4 +201,4 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/out of distribution/Graph.png">| [Link](https://arxiv.org/abs/2408.00490)|
+|Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | WWW 2025 |<img width="1200" alt="image" src="images/out of distribution/Graph.png">| [Link](https://arxiv.org/abs/2408.00490)|
