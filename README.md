@@ -96,7 +96,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Diffusion-based Contrastive Learning for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.09369)|
+|Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning | CIKM 2024 |<img width="1200" alt="image" src="images/target and guidance/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.09369)|
 |Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Dual.png">| [Link](https://arxiv.org/abs/2410.21967)|
 |Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 |<img width="1200" alt="image" src="images/target and guidance/Semantic-aware.png">| [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
 
