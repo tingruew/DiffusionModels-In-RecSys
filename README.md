@@ -55,6 +55,23 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Recfusion: A binomial diffusion process for 1d data for recommendation | Arxiv 2023 | <img width="800" alt="image" src="images/implicit feedback/recfusion.png"> | [Link](https://arxiv.org/abs/2306.08947)|
 |SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation | WSDM 2025 | <img width="800" alt="image" src="images/implicit feedback/stochastic.png"> | [Link](https://arxiv.org/abs/2405.00287)|
 |Effects of Using Synthetic Data on Deep Recommender Models' Performance | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/effects.png"> | [Link](https://arxiv.org/abs/2406.18286)|
+|GDDRec: graph neural diffusion model for diversified recommendation | KIS 2025 | <img width="800" alt="image" src="images/implicit feedback/gddrec.png"> | [Link](https://link.springer.com/article/10.1007/s10115-025-02348-y)|
+|Collaborative Diffusion Model for Recommender System | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/collaborative-diffusion.png"> | [Link](https://arxiv.org/abs/2501.18997)|
+|Hyperbolic Diffusion Recommender Model | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/hyperbolic.png"> | [Link](https://arxiv.org/abs/2504.01541)|
+|Conditional diffusion model for recommender systems | NN 2025 | <img width="800" alt="image" src="images/implicit feedback/conditional.png"> | [Link](https://www.sciencedirect.com/science/article/pii/S0893608025000838)|
+|Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/generative.png"> | [Link](https://arxiv.org/abs/2504.12007)|
+|Diffusion Model as a Base for Cold Item Recommendation | Applied Sciences 2025 | <img width="800" alt="image" src="images/implicit feedback/diffusion-model.png"> | [Link](https://www.mdpi.com/2076-3417/15/9/4784)|
+|Diff-GNDCRec: A diffusion model with graph-node enhancement and difference comparison for recommendation | IPM 2025 | <img width="800" alt="image" src="images/implicit feedback/diff-gndcrec.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457325000950?dgcid=rss_sd_all)|
+|A Diffusion Model with User Preference Guidance for Recommendation | DASFAA 2024 | <img width="800" alt="image" src="images/implicit feedback/a-diffusion.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5555-4_15)|
+|Graph-based Diffusion Model for Collaborative Filtering | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/graph-based.png"> | [Link](https://arxiv.org/abs/2504.05029)|
+|DiffGCL: Diffusion model-based Graph Contrastive Learning for Service Recommendation | ICWS 2024 | <img width="800" alt="image" src="images/implicit feedback/diffgcl.png"> | [Link](https://ieeexplore.ieee.org/document/10707576)|
+|Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/divide.png"> | [Link](https://arxiv.org/abs/2505.05035)|
+|DiffGraph: Heterogeneous Graph Diffusion Model | WSDM 2025 | <img width="800" alt="image" src="images/implicit feedback/diffgraph.png"> | [Link](https://arxiv.org/abs/2501.02313)|
+|Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/diffusion-driven.png"> | [Link](https://arxiv.org/abs/2505.07431)|
+|DiffGR: A Discrete Diffusion-Based Model for Personalised Recommendation by Reconstructing User-Item Bipartite Graphs | ECIR 2025 | <img width="800" alt="image" src="images/implicit feedback/diffgr.png"> | [Link](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_23)|
+|GGDHSCL: A Graph Generative Diffusion With Hard Negative Sampling Contrastive Learning Recommendation Method | TCSS 2025 | <img width="800" alt="image" src="images/implicit feedback/ggdhscl.png"> | [Link](https://ieeexplore.ieee.org/document/10904007)|
+|Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/personalized.png"> | [Link](https://arxiv.org/abs/2505.14901)|
+|Addressing Cold-Start Problem in Click-Through Rate Prediction via Supervised Diffusion Modeling | AAAI 2025 | <img width="800" alt="image" src="images/implicit feedback/addressing.png"> | [Link](https://arxiv.org/abs/2504.06270)|
 
 - **Explicit Rating**
   
