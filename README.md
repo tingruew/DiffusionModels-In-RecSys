@@ -104,6 +104,8 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
 |Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
+|Disentangled Contrastive Bundle Recommendation with Conditional Diffusion | AAAI 2025 | <img width="800" alt="image" src="images/item graph/disentangled.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33314)|
+|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Information Sciences 2025 | <img width="800" alt="image" src="images/item graph/rsdiff.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
 
 - #### **User Graph**
 
