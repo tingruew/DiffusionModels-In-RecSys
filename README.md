@@ -18,6 +18,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 - [Background in Diffusion Models](#background-in-diffusion-models)
 - [Papers for Diffusion Models in Recsys](#papers-for-diffusion-models-in-recsys)
   -   [Collaborative Filtering](#collaborative-filtering)
+      -  [Implicit Feedback](#implicit-feedback)
   -   [Sequential Recommendation](#sequential-recommendation)
   -   [Multi-domain Recommendation](#multi-domain-recommendation)
   -   [Responsible Recommendation](#responsible-recommendation)
@@ -41,7 +42,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ### Collaborative Filtering
 
-- **Implicit Feedback**
+- #### **Implicit Feedback**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
