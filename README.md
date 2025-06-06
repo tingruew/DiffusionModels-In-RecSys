@@ -105,7 +105,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
 |Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 |Disentangled Contrastive Bundle Recommendation with Conditional Diffusion | AAAI 2025 | <img width="800" alt="image" src="images/item graph/disentangled.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33314)|
-|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Information Sciences 2025 | <img width="800" alt="image" src="images/item graph/rsdiff.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
+|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 | <img width="800" alt="image" src="images/item graph/rsdiff.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
 
 - #### **User Graph**
 
@@ -113,6 +113,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |Diffusion social augmentation for social recommendation | Supercomputing 2025 | <img width="1200" alt="image" src="images/user graph/Diffusion.png">| [Link](https://link.springer.com/article/10.1007/s11227-024-06695-5)|
 |Recdiff: diffusion model for social recommendation | CIKM 2024 | <img width="1200" alt="image" src="images/user graph/Recdiff.png">| [Link](https://arxiv.org/abs/2406.01629)|
+|Score-based generative diffusion models for social recommendations | Arvix 2024 | <img width="1200" alt="image" src="images/user graph/score-based.png">| [Link](https://arxiv.org/abs/2412.15579)|
+|Graph diffusive self-supervised learning for social recommendation | SIGIR 2024 | <img width="1200" alt="image" src="images/user graph/graph.png">| [Link](https://dl.acm.org/doi/10.1145/3626772.3657962)|
+|Dual Graph Denoising Model for Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/dual.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714874)|
+|Model-Agnostic Social Network Refinement with Diffusion Models for Robust Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/model-agnostic.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714683)|
 
 ---
 
@@ -126,6 +130,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation | IoT 2024 |<img width="1200" alt="image" src="images/POI/Diff-DGMN.png">| [Link](https://ieeexplore.ieee.org/document/10640103)|
 |A diffusion model for poi recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/POI/A.png">| [Link](https://arxiv.org/abs/2304.07041)|
 |DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 |<img width="1200" alt="image" src="images/POI/DSDRec.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
+|HGDRec: Next poi recommendation based on hypergraph neural network and diffusion model | TSC 2025 |<img width="1200" alt="image" src="images/POI/hgdrec.png">| [Link](https://ieeexplore.ieee.org/abstract/document/10969795)|
 
 - #### **Sequence as Diffusion Target and Guidance**
   
@@ -134,6 +139,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning | CIKM 2024 |<img width="1200" alt="image" src="images/target and guidance/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.09369)|
 |Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Dual.png">| [Link](https://arxiv.org/abs/2410.21967)|
 |Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 |<img width="1200" alt="image" src="images/target and guidance/Semantic-aware.png">| [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
+|Diffusion Model for Interest Refinement in Multi-Interest Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/target and guidance/Dual.png">| [Link](https://arxiv.org/abs/2502.05561)|
+|Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach | Arxiv 2025 |<img width="1200" alt="image" src="images/target and guidance/unlocking.png">| [Link](https://arxiv.org/abs/2505.19544)|
+|Enhancing Sequential Recommendation with Global Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/target and guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33341)|
+|Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/intent-aware.png">| [Link](https://arxiv.org/abs/2504.16077)|
 
 - #### **Sequence as Diffusion Target**
 
