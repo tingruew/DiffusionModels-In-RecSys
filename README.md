@@ -19,9 +19,24 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 - [Papers for Diffusion Models in Recsys](#papers-for-diffusion-models-in-recsys)
   -   [Collaborative Filtering](#collaborative-filtering)
       -  [Implicit Feedback](#implicit-feedback)
+      -  [Explicit Ratings](#explicit-ratings)
+      -  [Item Graph](#item-graph)
+      -  [User Graph](#user-graph)
   -   [Sequential Recommendation](#sequential-recommendation)
+      -  [Point-of-Interest](#point-of-interest)
+      -  [Sequence as Diffusion Target and Guidance](#sequence-as-diffusion-target-and-guidance)
+      -  [Sequence as Diffusion Target](#sequence-as-diffusion-target)
+      -  [Sequence as Diffusion Guidance](#sequence-as-diffusion-guidance)
   -   [Multi-domain Recommendation](#multi-domain-recommendation)
+      -  [Image Generation](#image-generation)
+      -  [Text-to-Recommendation](#text-to-recommendation)
+      -  [Multi-modal Attributes](#multi-modal-attributes)
+      -  [Cross-domain](#cross-domain)
   -   [Responsible Recommendation](#responsible-recommendation)
+      -  [Fairness](#fairness)
+      -  [Accountability](#accountability)
+      -  [Transparency](#transparency)
+      -  [Out-of-Distribution](#out-of-distribution)
 
 ---
 
@@ -74,14 +89,14 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/personalized.png"> | [Link](https://arxiv.org/abs/2505.14901)|
 |Addressing Cold-Start Problem in Click-Through Rate Prediction via Supervised Diffusion Modeling | AAAI 2025 | <img width="800" alt="image" src="images/implicit feedback/addressing.png"> | [Link](https://arxiv.org/abs/2504.06270)|
 
-- **Explicit Rating**
+- #### **Explicit Ratings**
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="1600" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
 |EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="300" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
 
-- **Item Graph**
+- #### **Item Graph**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -90,7 +105,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
 |Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 
-- **User Graph**
+- #### **User Graph**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -101,7 +116,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ### Sequential Recommendation
 
-- **Point-of-interest**
+- #### **Point-of-interest**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -110,7 +125,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |A diffusion model for poi recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/POI/A.png">| [Link](https://arxiv.org/abs/2304.07041)|
 |DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 |<img width="1200" alt="image" src="images/POI/DSDRec.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
 
-- **Sequence as Diffusion Target and Guidance**
+- #### **Sequence as Diffusion Target and Guidance**
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -118,7 +133,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Dual Conditional Diffusion Models for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/target and guidance/Dual.png">| [Link](https://arxiv.org/abs/2410.21967)|
 |Semantic-Aware Diffusion Model for Sequential Recommendation | Open Review 2024 |<img width="1200" alt="image" src="images/target and guidance/Semantic-aware.png">| [Link](https://openreview.net/forum?id=2E6OK8cSoB)|
 
-- **Sequence as Diffusion Target**
+- #### **Sequence as Diffusion Target**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -132,7 +147,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |SeeDRec: Sememe-based Diffusion for Sequential Recommendation | IJCAI 2024 |<img width="1200" alt="image" src="images/target/SeeDRec.png">| [Link](https://www.ijcai.org/proceedings/2024/251)|
 |Bridging User Dynamics: Transforming Sequential Recommendations with Schr{\"o}dinger Bridge and Diffusion Models | CIKM 2024 |<img width="1200" alt="image" src="images/target/Bridging.png">| [Link](https://arxiv.org/abs/2409.10522)|
 
-- **Sequence as Diffusion Guidance**
+- #### **Sequence as Diffusion Guidance**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -152,7 +167,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ### Multi-domain Recommendation
 
-- **Image Generation**
+- #### **Image Generation**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -162,13 +177,13 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 |<img width="1200" alt="image" src="images/image generation/Diffusion.png">| [Link](https://arxiv.org/abs/2402.17279)|
 |GEMRec: Towards Generative Model Recommendation | WSDM 2024 |<img width="1200" alt="image" src="images/image generation/GEMRec.png">| [Link](https://arxiv.org/abs/2308.02205)|
 
-- **Text-to-recommendation**
+- #### **Text-to-recommendation**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |Diffusion Model for Slate Recommendation | Arxiv 2024 |<img width="500" alt="image" src="images/text to rec/Diffusion.png">| [Link](https://arxiv.org/abs/2408.06883)|
 
-- **Multi-modal Attributes**
+- #### **Multi-modal Attributes**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -177,7 +192,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 |<img width="1200" alt="image" src="images/multi-modal/Multimodal.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
 |Diffusion Review-Based Recommendation | KSEM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffusion.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
 
-- **Cross-domain**
+- #### **Cross-domain**
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -188,7 +203,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ### Responsible Recommendation
 
-- **Fairness**
+- #### **Fairness**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -198,7 +213,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Diffairec.png">| [Link](https://arxiv.org/abs/2410.02791)|
 |How Fair is Your Diffusion Recommender Model? | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/How.png">| [Link](https://arxiv.org/abs/2409.04339)|
 
-- **Accountability**
+- #### **Accountability**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -209,13 +224,13 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |ToDA: Target-oriented Diffusion Attacker against Recommendation System | Arxiv 2024 |<img width="1200" alt="image" src="images/accountability/ToDA.png">| [Link](https://arxiv.org/abs/2401.12578)|
 |Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 |<img width="1200" alt="image" src="images/target/Federated.png">| [Link](https://dl.acm.org/doi/10.1145/3688570)|
 
--  **Transparency**
+-  #### **Transparency**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |An Explainable Recommendation Method based on Diffusion Model | BigDIA 2023 |<img width="1200" alt="image" src="images/transparency/An.png">| [Link](https://ieeexplore.ieee.org/document/10429319)|
 
-- **Out-of-distribution**
+- #### **Out-of-distribution**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
