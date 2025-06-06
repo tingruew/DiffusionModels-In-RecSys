@@ -157,6 +157,9 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Plug-in diffusion model for sequential recommendation | AAAI 2024 |<img width="1200" alt="image" src="images/target/Plug-in.png">| [Link](https://arxiv.org/abs/2401.02913)|
 |SeeDRec: Sememe-based Diffusion for Sequential Recommendation | IJCAI 2024 |<img width="1200" alt="image" src="images/target/SeeDRec.png">| [Link](https://www.ijcai.org/proceedings/2024/251)|
 |Bridging User Dynamics: Transforming Sequential Recommendations with Schr{\"o}dinger Bridge and Diffusion Models | CIKM 2024 |<img width="1200" alt="image" src="images/target/Bridging.png">| [Link](https://arxiv.org/abs/2409.10522)|
+|Context-Aware Diffusion-based Sequential Recommendation | BigData 2024 |<img width="1200" alt="image" src="images/target/context-aware.png">| [Link](https://ieeexplore.ieee.org/document/10826051)|
+|DiffGCA: A Diffusion Recommendation Model with Global Attention Mechanism | DSIT 2025 |<img width="1200" alt="image" src="images/target/diffgca.png">| [Link](https://ieeexplore.ieee.org/document/10880988)|
+|When Feature Encoder Meets Diffusion Model for Sequential Recommendations | Info Sci 2025 |<img width="1200" alt="image" src="images/target/when.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000350)|
 
 - #### **Sequence as Diffusion Guidance**
 
@@ -173,6 +176,12 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Implicit local--global feature extraction for diffusion sequence recommendation | EAAI 2025 |<img width="1200" alt="image" src="images/guidance/Implicit.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016294)|
 |LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion | ICIC 2024 |<img width="1200" alt="image" src="images/guidance/Leadrec.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)|
 |Preference Diffusion for Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Preference.png">| [Link](https://arxiv.org/abs/2410.13117)|
+|Generative Diffusion Models for Sequential Recommendations | Recsys 2024 |<img width="1200" alt="image" src="images/guidance/generative.png">| [Link](https://arxiv.org/abs/2410.19429)|
+|Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/guidance/learning.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33401)|
+|Unleashing the Potential of Two-Tower Models: Diffusion-Based Cross-Interaction for Large-Scale Matching | WWW 2025 |<img width="1200" alt="image" src="images/guidance/unleashing.png">| [Link](https://arxiv.org/abs/2502.20687)|
+|Distinguished quantized guidance for diffusion-based sequence recommendation | WWW 2025 |<img width="1200" alt="image" src="images/guidance/distinguished.png">| [Link](https://arxiv.org/abs/2501.17670)|
+|Addressing Missing Data Issue for Diffusion-based Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/guidance/addressing.png">| [Link](https://arxiv.org/abs/2505.12283)|
+|Enhancing Diffusion Model with Auxiliary Information Mining-Exploration and Efficient Sampling Mechanism for Sequential Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33370)|
 
 ---
 
