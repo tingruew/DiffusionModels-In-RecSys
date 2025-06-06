@@ -196,6 +196,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce | Recsys 2024 |<img width="200" alt="image" src="images/image generation/Dynamic.png">| [Link](https://arxiv.org/abs/2408.12392)|
 |Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 |<img width="1200" alt="image" src="images/image generation/Diffusion.png">| [Link](https://arxiv.org/abs/2402.17279)|
 |GEMRec: Towards Generative Model Recommendation | WSDM 2024 |<img width="1200" alt="image" src="images/image generation/GEMRec.png">| [Link](https://arxiv.org/abs/2308.02205)|
+|Recommendations Beyond Catalogs: Diffusion Models for Personalized Generation | Arxiv 2025 |<img width="1200" alt="image" src="images/image generation/recommendations.png">| [Link](https://arxiv.org/abs/2502.18477)|
 
 - #### **Text-to-recommendation**
 
@@ -211,6 +212,9 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation | Arxiv 2023 |<img width="1200" alt="image" src="images/multi-modal/LD4mrec.png">| [Link](https://arxiv.org/abs/2309.15363)|
 |Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 |<img width="1200" alt="image" src="images/multi-modal/Multimodal.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
 |Diffusion Review-Based Recommendation | KSEM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffusion.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
+|DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations | Arxiv 2025 |<img width="1200" alt="image" src="images/multi-modal/diffcl.png">| [Link](https://arxiv.org/abs/2501.01066)|
+|Curriculum Conditioned Diffusion for Multimodal Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/multi-modal/curriculum.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33422)|
+|DiffKD: collaborative graph diffusion with knowledge distillation for multimodal recommendation | JIIS 2025 |<img width="1200" alt="image" src="images/multi-modal/diffkd.png">| [Link](https://arxiv.org/abs/2406.11781)|
 
 - #### **Cross-domain**
   
@@ -218,6 +222,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |Diffusion Cross-domain Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/cross-domain/Diffusion.png">| [Link](https://arxiv.org/abs/2402.02182)|
 |Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation | WSDM 2024 |<img width="250" alt="image" src="images/cross-domain/Diff-msr.png">| [Link](https://dl.acm.org/doi/10.1145/3616855.3635807)|
+|Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation | KDD 2025 |<img width="1200" alt="image" src="images/cross-domain/exploring.png">| [Link](https://arxiv.org/abs/2501.11671)|
 
 ---
 
@@ -243,6 +248,9 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems | Access 2024 |<img width="1200" alt="image" src="images/accountability/Multi-resolution.png">| [Link](https://arxiv.org/abs/2311.03488)|
 |ToDA: Target-oriented Diffusion Attacker against Recommendation System | Arxiv 2024 |<img width="1200" alt="image" src="images/accountability/ToDA.png">| [Link](https://arxiv.org/abs/2401.12578)|
 |Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 |<img width="1200" alt="image" src="images/target/Federated.png">| [Link](https://dl.acm.org/doi/10.1145/3688570)|
+|Latent diffusion model-based data poisoning attack against QoS-aware cloud API recommender system | Computer Networks 2025 |<img width="1200" alt="image" src="images/accountability/latent.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S138912862500088X)|
+|FedDiffRec: A Module-wise Training Approach for Diffusion-Based Recommendation in Federated Learning | ICASSP 2025 |<img width="1200" alt="image" src="images/accountability/feddiffrec.png">| [Link](https://ieeexplore.ieee.org/document/10889647)|
+|An Adversarial Model with Diffusion for Robust Recommendation against Shilling Attack| SAC 2025 |<img width="1200" alt="image" src="images/accountability/an.png">| [Link](https://dl.acm.org/doi/10.1145/3672608.3707821)|
 
 -  #### **Transparency**
 
@@ -255,3 +263,4 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | WWW 2025 |<img width="1200" alt="image" src="images/out of distribution/Graph.png">| [Link](https://arxiv.org/abs/2408.00490)|
+|Distributionally robust graph out-of-distribution recommendation via diffusion model | WWW 2025 |<img width="1200" alt="image" src="images/out of distribution/distributionally.png">| [Link](https://arxiv.org/abs/2501.15555)|
