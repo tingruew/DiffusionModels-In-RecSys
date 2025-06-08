@@ -143,6 +143,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach | Arxiv 2025 |<img width="1200" alt="image" src="images/target and guidance/unlocking.png">| [Link](https://arxiv.org/abs/2505.19544)|
 |Enhancing Sequential Recommendation with Global Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/target and guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33341)|
 |Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/intent-aware.png">| [Link](https://arxiv.org/abs/2504.16077)|
+|Diffusion augmentation for sequential recommendation | CIKM 2023 |<img width="1200" alt="image" src="images/target/Diffusion.png">| [Link](https://arxiv.org/abs/2309.12858)|
 
 - #### **Sequence as Diffusion Target**
 
@@ -152,7 +153,6 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model | NeurIPS 2024 |<img width="1200" alt="image" src="images/target/Breaking.png">| [Link](https://arxiv.org/abs/2410.23994)|
 |A Diffusion Data Enhancement Retentive Model for Sequential Recommendation | CISAT 2024 |<img width="1200" alt="image" src="images/target/A.png">| [Link](https://ieeexplore.ieee.org/abstract/document/10695308)|
 |Diff4rec: Sequential recommendation with curriculum-scheduled diffusion augmentation | MM 2023 |<img width="1200" alt="image" src="images/target/Diff4rec.png">| [Link](https://dl.acm.org/doi/10.1145/3581783.3612709)|
-|Diffusion augmentation for sequential recommendation | CIKM 2023 |<img width="1200" alt="image" src="images/target/Diffusion.png">| [Link](https://arxiv.org/abs/2309.12858)|
 |Multi-Interest Network with Simple Diffusion for Multi-Behavior Sequential Recommendation | SDM 2024 |<img width="1200" alt="image" src="images/target/Multi-interest.png">| [Link](https://epubs.siam.org/doi/10.1137/1.9781611978032.84)|
 |Plug-in diffusion model for sequential recommendation | AAAI 2024 |<img width="1200" alt="image" src="images/target/Plug-in.png">| [Link](https://arxiv.org/abs/2401.02913)|
 |SeeDRec: Sememe-based Diffusion for Sequential Recommendation | IJCAI 2024 |<img width="1200" alt="image" src="images/target/SeeDRec.png">| [Link](https://www.ijcai.org/proceedings/2024/251)|
