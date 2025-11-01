@@ -64,7 +64,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Blurring-sharpening process models for collaborative filtering| SIGIR 2023 | <img width="1200" alt="image" src="images/implicit feedback/blurring-sharpening.png"> | [Link](https://arxiv.org/abs/2211.09324)|
 |Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/incorporating.png"> | [Link](https://arxiv.org/abs/2409.10494)|
 |Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity | SIGIR 2024 | <img width="800" alt="image" src="images/implicit feedback/collaborative.png"> | [Link](https://arxiv.org/abs/2404.14240)|
-|Recommendation via collaborative diffusion generative model | KSEM 2022 | <img width="300" alt="image" src="images/implicit feedback/recommendation.png"> | [Link](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_47)|
+|Recommendation via collaborative diffusion generative model | KSEM 2022 | | [Link](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_47)|
 |Denoising diffusion recommender model | SIGIR 2024 | <img width="800" alt="image" src="images/implicit feedback/denoising.png"> | [Link](https://arxiv.org/abs/2401.06982)|
 |A Directional Diffusion Graph Transformer for Recommendation | Arxiv 2024 | <img width="800" alt="image" src="images/implicit feedback/A.png"> | [Link](https://arxiv.org/abs/2404.03326)|
 |Diffusion recommender model | SIGIR 2023 | <img width="800" alt="image" src="images/implicit feedback/diffusion.png"> | [Link](https://arxiv.org/abs/2304.04971)|
@@ -77,14 +77,14 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Conditional diffusion model for recommender systems | NN 2025 | <img width="800" alt="image" src="images/implicit feedback/conditional.png"> | [Link](https://www.sciencedirect.com/science/article/pii/S0893608025000838)|
 |Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/generative.png"> | [Link](https://arxiv.org/abs/2504.12007)|
 |Diffusion Model as a Base for Cold Item Recommendation | Applied Sciences 2025 | <img width="800" alt="image" src="images/implicit feedback/diffusion-model.png"> | [Link](https://www.mdpi.com/2076-3417/15/9/4784)|
-|Diff-GNDCRec: A diffusion model with graph-node enhancement and difference comparison for recommendation | IPM 2025 | <img width="800" alt="image" src="images/implicit feedback/diff-gndcrec.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457325000950?dgcid=rss_sd_all)|
-|A Diffusion Model with User Preference Guidance for Recommendation | DASFAA 2024 | <img width="800" alt="image" src="images/implicit feedback/a-diffusion.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5555-4_15)|
+|Diff-GNDCRec: A diffusion model with graph-node enhancement and difference comparison for recommendation | IPM 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457325000950?dgcid=rss_sd_all)|
+|A Diffusion Model with User Preference Guidance for Recommendation | DASFAA 2024 || [Link](https://link.springer.com/chapter/10.1007/978-981-97-5555-4_15)|
 |Graph-based Diffusion Model for Collaborative Filtering | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/graph-based.png"> | [Link](https://arxiv.org/abs/2504.05029)|
 |DiffGCL: Diffusion model-based Graph Contrastive Learning for Service Recommendation | ICWS 2024 | <img width="800" alt="image" src="images/implicit feedback/diffgcl.png"> | [Link](https://ieeexplore.ieee.org/document/10707576)|
 |Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/divide.png"> | [Link](https://arxiv.org/abs/2505.05035)|
 |DiffGraph: Heterogeneous Graph Diffusion Model | WSDM 2025 | <img width="800" alt="image" src="images/implicit feedback/diffgraph.png"> | [Link](https://arxiv.org/abs/2501.02313)|
 |Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation | Arxiv 2025 | <img width="800" alt="image" src="images/implicit feedback/diffusion-driven.png"> | [Link](https://arxiv.org/abs/2505.07431)|
-|DiffGR: A Discrete Diffusion-Based Model for Personalised Recommendation by Reconstructing User-Item Bipartite Graphs | ECIR 2025 | <img width="800" alt="image" src="images/implicit feedback/diffgr.png"> | [Link](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_23)|
+|DiffGR: A Discrete Diffusion-Based Model for Personalised Recommendation by Reconstructing User-Item Bipartite Graphs | ECIR 2025 | | [Link](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_23)|
 |GGDHSCL: A Graph Generative Diffusion With Hard Negative Sampling Contrastive Learning Recommendation Method | TCSS 2025 | <img width="800" alt="image" src="images/implicit feedback/ggdhscl.png"> | [Link](https://ieeexplore.ieee.org/document/10904007)|
 |Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/personalized.png"> | [Link](https://arxiv.org/abs/2505.14901)|
 |Addressing Cold-Start Problem in Click-Through Rate Prediction via Supervised Diffusion Modeling | AAAI 2025 | <img width="800" alt="image" src="images/implicit feedback/addressing.png"> | [Link](https://arxiv.org/abs/2504.06270)|
@@ -93,19 +93,19 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | <img width="1600" alt="image" src="images/explicit rating/DGRM.png"> | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
+|DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
 |EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="300" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
 
 - #### **Item Graph**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 |<img width="800" alt="image" src="images/item graph/DICES.png"> | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
+|DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 | | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
 |Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
 |Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 |Disentangled Contrastive Bundle Recommendation with Conditional Diffusion | AAAI 2025 | <img width="800" alt="image" src="images/item graph/disentangled.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33314)|
-|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 | <img width="800" alt="image" src="images/item graph/rsdiff.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
+|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
 
 - #### **User Graph**
 
@@ -129,7 +129,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diffusion-based cloud-edge-device collaborative learning for next POI recommendations | KDD 2024 |<img width="1200" alt="image" src="images/POI/Diffusion-based.png">| [Link](https://arxiv.org/abs/2405.13811)|
 |Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation | IoT 2024 |<img width="1200" alt="image" src="images/POI/Diff-DGMN.png">| [Link](https://ieeexplore.ieee.org/document/10640103)|
 |A diffusion model for poi recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/POI/A.png">| [Link](https://arxiv.org/abs/2304.07041)|
-|DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 |<img width="1200" alt="image" src="images/POI/DSDRec.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
+|DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
 |HGDRec: Next poi recommendation based on hypergraph neural network and diffusion model | TSC 2025 |<img width="1200" alt="image" src="images/POI/hgdrec.png">| [Link](https://ieeexplore.ieee.org/abstract/document/10969795)|
 
 - #### **Sequence as Diffusion Target and Guidance**
@@ -159,7 +159,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Bridging User Dynamics: Transforming Sequential Recommendations with Schr{\"o}dinger Bridge and Diffusion Models | CIKM 2024 |<img width="1200" alt="image" src="images/target/Bridging.png">| [Link](https://arxiv.org/abs/2409.10522)|
 |Context-Aware Diffusion-based Sequential Recommendation | BigData 2024 |<img width="1200" alt="image" src="images/target/context-aware.png">| [Link](https://ieeexplore.ieee.org/document/10826051)|
 |DiffGCA: A Diffusion Recommendation Model with Global Attention Mechanism | DSIT 2025 |<img width="1200" alt="image" src="images/target/diffgca.png">| [Link](https://ieeexplore.ieee.org/document/10880988)|
-|When Feature Encoder Meets Diffusion Model for Sequential Recommendations | Info Sci 2025 |<img width="1200" alt="image" src="images/target/when.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000350)|
+|When Feature Encoder Meets Diffusion Model for Sequential Recommendations | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000350)|
 |EDiffuRec: An Enhanced Diffusion Model for Sequential Recommendation | Mathematics 2024 |<img width="1200" alt="image" src="images/guidance/EDiffurec.png">| [Link](https://www.mdpi.com/2227-7390/12/12/1795)|
 
 - #### **Sequence as Diffusion Guidance**
@@ -173,8 +173,8 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models | WSDM 2025 |<img width="1200" alt="image" src="images/guidance/Dimerec.png">| [Link](https://arxiv.org/abs/2408.12153)|
 |Generate what you prefer: Reshaping sequential recommendation via guided diffusion | NeurIPS 2024 |<img width="300" alt="image" src="images/guidance/Generate.png">| [Link](https://arxiv.org/abs/2310.20453)|
 |Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Instantiate.png">| [Link](https://arxiv.org/abs/2410.13428)|
-|Implicit local--global feature extraction for diffusion sequence recommendation | EAAI 2025 |<img width="1200" alt="image" src="images/guidance/Implicit.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016294)|
-|LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion | ICIC 2024 |<img width="1200" alt="image" src="images/guidance/Leadrec.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)|
+|Implicit local-global feature extraction for diffusion sequence recommendation | EAAI 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016294)|
+|LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion | ICIC 2024 || [Link](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)|
 |Preference Diffusion for Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/guidance/Preference.png">| [Link](https://arxiv.org/abs/2410.13117)|
 |Generative Diffusion Models for Sequential Recommendations | Recsys 2024 |<img width="1200" alt="image" src="images/guidance/generative.png">| [Link](https://arxiv.org/abs/2410.19429)|
 |Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/guidance/learning.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33401)|
@@ -211,7 +211,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |DiffMM: Multi-Modal Diffusion Model for Recommendation | MM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffmm.png">| [Link](https://arxiv.org/abs/2406.11781)|
 |LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation | Arxiv 2023 |<img width="1200" alt="image" src="images/multi-modal/LD4mrec.png">| [Link](https://arxiv.org/abs/2309.15363)|
 |Multimodal Conditioned Diffusion Model for Recommendation | WWW 2024 |<img width="1200" alt="image" src="images/multi-modal/Multimodal.png">| [Link](https://dl.acm.org/doi/10.1145/3589335.3651956)|
-|Diffusion Review-Based Recommendation | KSEM 2024 |<img width="1200" alt="image" src="images/multi-modal/Diffusion.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
+|Diffusion Review-Based Recommendation | KSEM 2024 || [Link](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)|
 |DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations | Arxiv 2025 |<img width="1200" alt="image" src="images/multi-modal/diffcl.png">| [Link](https://arxiv.org/abs/2501.01066)|
 |Curriculum Conditioned Diffusion for Multimodal Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/multi-modal/curriculum.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33422)|
 |DiffKD: collaborative graph diffusion with knowledge distillation for multimodal recommendation | JIIS 2025 |<img width="1200" alt="image" src="images/multi-modal/diffkd.png">| [Link](https://arxiv.org/abs/2406.11781)|
@@ -248,7 +248,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems | Access 2024 |<img width="1200" alt="image" src="images/accountability/Multi-resolution.png">| [Link](https://arxiv.org/abs/2311.03488)|
 |ToDA: Target-oriented Diffusion Attacker against Recommendation System | Arxiv 2024 |<img width="1200" alt="image" src="images/accountability/ToDA.png">| [Link](https://arxiv.org/abs/2401.12578)|
 |Federated Recommender System Based on Diffusion Augmentation and Guided Denoising | TOIS 2024 |<img width="1200" alt="image" src="images/target/Federated.png">| [Link](https://dl.acm.org/doi/10.1145/3688570)|
-|Latent diffusion model-based data poisoning attack against QoS-aware cloud API recommender system | Computer Networks 2025 |<img width="1200" alt="image" src="images/accountability/latent.png">| [Link](https://www.sciencedirect.com/science/article/abs/pii/S138912862500088X)|
+|Latent diffusion model-based data poisoning attack against QoS-aware cloud API recommender system | Computer Networks 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S138912862500088X)|
 |FedDiffRec: A Module-wise Training Approach for Diffusion-Based Recommendation in Federated Learning | ICASSP 2025 |<img width="1200" alt="image" src="images/accountability/feddiffrec.png">| [Link](https://ieeexplore.ieee.org/document/10889647)|
 |An Adversarial Model with Diffusion for Robust Recommendation against Shilling Attack| SAC 2025 |<img width="1200" alt="image" src="images/accountability/an.png">| [Link](https://dl.acm.org/doi/10.1145/3672608.3707821)|
 
