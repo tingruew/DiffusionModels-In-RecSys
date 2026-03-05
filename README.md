@@ -181,7 +181,6 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Enhancing Sequential Recommendation with Global Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/target and guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33341)|
 |Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/intent-aware.png">| [Link](https://arxiv.org/abs/2504.16077)|
 |Diffusion augmentation for sequential recommendation | CIKM 2023 |<img width="1200" alt="image" src="images/target/Diffusion.png">| [Link](https://arxiv.org/abs/2309.12858)|
-
 |Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation | CIKM 2025 |<img width="1200" alt="image" src="images/target and guidance/energy-guided.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746252.3761076)|
 |DMMD4SR: Diffusion Model-based Multi-level Multimodal Denoising for Sequential Recommendation | MM 2025 |<img width="1200" alt="image" src="images/target and guidance/dmmd4sr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3755861)|
 |Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/multimodal.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3730044)|
