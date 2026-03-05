@@ -123,11 +123,9 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
 |DICES: Diffusion-Based Contrastive Learning with Knowledge Graphs for Recommendation | KSEM 2024 | | [Link](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_9)|
-|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |G-Diff: A Graph-Based Decoding Network for Diffusion Recommender Model | TNNLS 2024 | <img width="800" alt="image" src="images/item graph/G-Diff.png"> | [Link](https://ieeexplore.ieee.org/document/10750895)|
 |Graph Signal Diffusion Model for Collaborative Filtering | SIGIR 2024 | <img width="800" alt="image" src="images/item graph/Graph.png">| [Link](https://arxiv.org/abs/2311.08744)|
 |Disentangled Contrastive Bundle Recommendation with Conditional Diffusion | AAAI 2025 | <img width="800" alt="image" src="images/item graph/disentangled.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33314)|
-|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
 
 - #### **User Graph**
 
@@ -139,9 +137,22 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Graph diffusive self-supervised learning for social recommendation | SIGIR 2024 | <img width="1200" alt="image" src="images/user graph/graph.png">| [Link](https://dl.acm.org/doi/10.1145/3626772.3657962)|
 |Dual Graph Denoising Model for Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/dual.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714874)|
 |Model-Agnostic Social Network Refinement with Diffusion Models for Robust Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/model-agnostic.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714683)|
+|A Feature-Weighted Attention Diffusion Model for Social Recommendation | DDCLS 2025 | <img width="1200" alt="image" src="images/user graph/feature-weighted.png">| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11065590)|
+|Graph Diffusion Social Recommendation | TCE 2025 | <img width="1200" alt="image" src="images/user graph/graph-diffusion.png">| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11099088)|
 
 - #### **Knowledge Graph**
-- 
+
+|Title | Venue | Main Image | Paper|
+| :--- | :--: | :---: | :---: |
+|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
+|RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
+
+|DAGR: DyHGSampler and AdaSGC-Based Knowledge Graph Diffusion for Recommendation | ICIC 2025 | | [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_11)|
+|TCM-DiffPR: knowledge graph diffusion model for personalized traditional Chinese medicine recommendation | JIIS 2025 | <img width="300" alt="image" src="images/knowledge graph/tcm.png"> | [Link](https://link.springer.com/article/10.1007/s10844-025-00994-w)|
+|DKGM: A diffusion knowledge graph model for medication recommendation leveraging medical and drug information | ICHI 2025 | <img width="300" alt="image" src="images/knowledge graph/dkgm.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11081566)|
+|Mask diffusion-based contrastive learning for knowledge-aware recommendation | TKDE 2025 | <img width="300" alt="image" src="images/knowledge graph/mask.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11049045)|
+|Knowledge-aware Diffusion-Enhanced Multimedia Recommendation | Multimedia 2025 | <img width="300" alt="image" src="images/knowledge graph/knowledge-aware.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175523)|
+
 ---
 
 ### Sequential Recommendation
