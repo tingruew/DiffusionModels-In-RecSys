@@ -57,6 +57,12 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ### Papers for Diffusion Models in Recsys
 
+### Core Recommendation Tasks
+
+<p align="center">
+  <img src="images/axis1.png" width="800">
+</p>
+
 ### Collaborative Filtering
 
 - #### **Implicit Feedback**
@@ -187,7 +193,11 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ---
 
-### Multi-domain Recommendation
+### Data Modality and Domain
+
+<p align="center">
+  <img src="images/axis2.png" width="800">
+</p>
 
 - #### **Image Generation**
 
@@ -228,7 +238,11 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 ---
 
-### Responsible Recommendation
+### Trustworthy Objectives and Constraints
+
+<p align="center">
+  <img src="images/axis3.png" width="800">
+</p>
 
 - #### **Fairness**
 
