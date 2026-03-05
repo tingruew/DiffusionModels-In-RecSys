@@ -25,6 +25,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
           -  [Explicit Ratings](#explicit-ratings)
           -  [Item Graph](#item-graph)
           -  [User Graph](#user-graph)
+          -  [Knowledge Graph](#knowledge-graph)
       -   [Sequential Recommendation](#sequential-recommendation)
           -  [Point-of-Interest](#point-of-interest)
           -  [Sequence as Diffusion Target and Guidance](#sequence-as-diffusion-target-and-guidance)
@@ -146,7 +147,6 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
-
 |DAGR: DyHGSampler and AdaSGC-Based Knowledge Graph Diffusion for Recommendation | ICIC 2025 | | [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_11)|
 |TCM-DiffPR: knowledge graph diffusion model for personalized traditional Chinese medicine recommendation | JIIS 2025 | <img width="300" alt="image" src="images/knowledge graph/tcm.png"> | [Link](https://link.springer.com/article/10.1007/s10844-025-00994-w)|
 |DKGM: A diffusion knowledge graph model for medication recommendation leveraging medical and drug information | ICHI 2025 | <img width="300" alt="image" src="images/knowledge graph/dkgm.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11081566)|
