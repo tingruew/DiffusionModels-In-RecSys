@@ -166,6 +166,8 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |A diffusion model for poi recommendation | TOIS 2023 |<img width="1200" alt="image" src="images/POI/A.png">| [Link](https://arxiv.org/abs/2304.07041)|
 |DSDRec: Next POI recommendation using deep semantic extraction and diffusion model | Info Sci 2024 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524009186)|
 |HGDRec: Next poi recommendation based on hypergraph neural network and diffusion model | TSC 2025 |<img width="1200" alt="image" src="images/POI/hgdrec.png">| [Link](https://ieeexplore.ieee.org/abstract/document/10969795)|
+|DMSDRec: Dynamic Structure-aware Graph Masked Autoencoder and Spatiotemporal Diffusion for Next-POI Recommendation | TSC 2025 |<img width="1200" alt="image" src="images/POI/dmsdrec.png">| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11006010)|
+|Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation | Big Data 2025 |<img width="1200" alt="image" src="images/POI/bridging.png">| [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11195170)|
 
 - #### **Sequence as Diffusion Target and Guidance**
   
@@ -179,6 +181,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Enhancing Sequential Recommendation with Global Diffusion | AAAI 2025 |<img width="1200" alt="image" src="images/target and guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33341)|
 |Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/intent-aware.png">| [Link](https://arxiv.org/abs/2504.16077)|
 |Diffusion augmentation for sequential recommendation | CIKM 2023 |<img width="1200" alt="image" src="images/target/Diffusion.png">| [Link](https://arxiv.org/abs/2309.12858)|
+
+|Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation | CIKM 2025 |<img width="1200" alt="image" src="images/target and guidance/energy-guided.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746252.3761076)|
+|DMMD4SR: Diffusion Model-based Multi-level Multimodal Denoising for Sequential Recommendation | MM 2025 |<img width="1200" alt="image" src="images/target and guidance/dmmd4sr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3755861)|
+|Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising | SIGIR 2025 |<img width="1200" alt="image" src="images/target and guidance/multimodal.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3730044)|
 
 - #### **Sequence as Diffusion Target**
 
@@ -196,6 +202,15 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |DiffGCA: A Diffusion Recommendation Model with Global Attention Mechanism | DSIT 2025 |<img width="1200" alt="image" src="images/target/diffgca.png">| [Link](https://ieeexplore.ieee.org/document/10880988)|
 |When Feature Encoder Meets Diffusion Model for Sequential Recommendations | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000350)|
 |EDiffuRec: An Enhanced Diffusion Model for Sequential Recommendation | Mathematics 2024 |<img width="1200" alt="image" src="images/guidance/EDiffurec.png">| [Link](https://www.mdpi.com/2227-7390/12/12/1795)|
+|Similarity-Guided Diffusion for Contrastive Sequential Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/target/similarity-guided.png">| [Link](https://arxiv.org/pdf/2507.11866)|
+|DiffusionGS: Generative Search with Query Conditioned Diffusion in Kuaishou | Arxiv 2025 |<img width="1200" alt="image" src="images/target/diffusiongs.png">| [Link](https://arxiv.org/pdf/2508.17754)|
+|Fusion of diffusion models and intent learning in sequential recommendation | JIIS 2025 |<img width="1200" alt="image" src="images/target/fusion.png">| [Link](https://link.springer.com/article/10.1007/s10844-025-00986-w)|
+|Modeling Long-term User Behaviors with Diffusion-driven Multi-interest Network for CTR Prediction | RecSys 2025 |<img width="1200" alt="image" src="images/target/modeling.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3705328.3748045)|
+|Time-Weighted Diffusion Model for Enhanced Sequential Recommendations | DDCLS 2025 || [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11065965)|
+|Unconditional Diffusion for Generative Sequential Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/target/unconditional.png">| [Link](https://arxiv.org/pdf/2507.06121)|
+|Adaptive User Interest Modeling via Conditioned Denoising Diffusion For Click-Through Rate Prediction | Arxiv 2025 |<img width="1200" alt="image" src="images/target/adaptive.png">| [Link](https://arxiv.org/pdf/2509.19876)|
+|DiffSBR: A diffusion model for session-based recommendation | IPM 2026 | | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325002250)|
+|Multi-source information diffusion model for conversation recommender system | Evolving Systems 2025 |<img width="1200" alt="image" src="images/target/multi-source.png">| [Link](https://link.springer.com/article/10.1007/s12530-025-09692-y)|
 
 - #### **Sequence as Diffusion Guidance**
 
@@ -217,6 +232,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Distinguished quantized guidance for diffusion-based sequence recommendation | WWW 2025 |<img width="1200" alt="image" src="images/guidance/distinguished.png">| [Link](https://arxiv.org/abs/2501.17670)|
 |Addressing Missing Data Issue for Diffusion-based Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/guidance/addressing.png">| [Link](https://arxiv.org/abs/2505.12283)|
 |Enhancing Diffusion Model with Auxiliary Information Mining-Exploration and Efficient Sampling Mechanism for Sequential Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/guidance/enhancing.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33370)|
+|Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation | MM 2025 |<img width="1200" alt="image" src="images/guidance/why.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3754564)|
+|Adaptive User Dynamic Interest Guidance for Generative Sequential Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/guidance/adaptive.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729888)|
+|On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders | NeurIPS 2025 |<img width="1200" alt="image" src="images/guidance/on.png">| [Link](https://arxiv.org/pdf/2510.17245)|
+|Unleashing the potential of diffusion models towards diversified sequential recommendations | SIGIR 2025 |<img width="1200" alt="image" src="images/guidance/unleashing-the.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3730109)|
 
 ---
 
