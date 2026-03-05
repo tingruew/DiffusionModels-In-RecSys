@@ -97,6 +97,18 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |GGDHSCL: A Graph Generative Diffusion With Hard Negative Sampling Contrastive Learning Recommendation Method | TCSS 2025 | <img width="800" alt="image" src="images/implicit feedback/ggdhscl.png"> | [Link](https://ieeexplore.ieee.org/document/10904007)|
 |Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation | WWW 2025 | <img width="800" alt="image" src="images/implicit feedback/personalized.png"> | [Link](https://arxiv.org/abs/2505.14901)|
 |Addressing Cold-Start Problem in Click-Through Rate Prediction via Supervised Diffusion Modeling | AAAI 2025 | <img width="800" alt="image" src="images/implicit feedback/addressing.png"> | [Link](https://arxiv.org/abs/2504.06270)|
+|Interest-Aware Graph Contrastive Learning for Recommendation with Diffusion-based Augmentation | TKDE 2025 | <img width="800" alt="image" src="images/implicit feedback/interest-aware.png"> | [Link](https://ieeexplore.ieee.org/abstract/document/11202202)|
+|Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation | AAAI 2026 | <img width="800" alt="image" src="images/implicit feedback/modeling.png"> | [Link](https://arxiv.org/pdf/2507.03280)|
+|GDiffMAE: Guided Diffusion Enhanced Mask Graph AutoEncoder for Recommendation | TKDE 2025 | <img width="800" alt="image" src="images/implicit feedback/gdiffmae.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168178)|
+|DiffMSR: a Multi-Semantic Graph Diffusion Model for Service Recommendation | TSC 2025 | <img width="800" alt="image" src="images/implicit feedback/diffmsr.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11119790)|
+|Hierarchical graph contrastive learning with diffusion-enhanced for multi-behavior recommendation | IPM 2026 |  | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457325003887)|
+|Dual-view collaboration fusion on diffusion learning for bundle recommendation | Info Fusion 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002271)|
+|Diffusion-Augmented Hierarchical Graph Convolutional Network for Multi-behavior Recommendation | ADMA 2025 |  | [Link](https://link.springer.com/chapter/10.1007/978-981-95-3462-3_31)|
+|DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate Prediction via Discrete Diffusion | Arvix 2025 | <img width="800" alt="image" src="images/implicit feedback/dgenctr.png"> | [Link](https://arxiv.org/pdf/2508.14500)|
+|Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation | NeurIPS 2025 | <img width="800" alt="image" src="images/implicit feedback/fading.png"> | [Link](https://arxiv.org/pdf/2509.26063)|
+|HierDiffuse: Progressive Diffusion for Robust Interest Fusion in CTR Prediction | EMNLP 2025 | <img width="800" alt="image" src="images/implicit feedback/hierdiffuse.png"> | [Link](https://aclanthology.org/2025.emnlp-industry.92.pdf)|
+|ConDiff: Conditional graph diffusion model for recommendation | IPM 2026 | <img width="800" alt="image" src="images/implicit feedback/condiff.png"> | [Link](https://www.sciencedirect.com/science/article/pii/S0306457325002444)|
+|Causal variational inference for deconfounded multi-behavior recommendation | TOIS 2025 | <img width="800" alt="image" src="images/implicit feedback/causal.png"> | [Link](https://dl.acm.org/doi/full/10.1145/3745023)|
 
 - #### **Explicit Ratings**
   
@@ -104,6 +116,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments | Pattern Recognition 2024 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324004436)|
 |EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs | Arxiv 2024 | <img width="300" alt="image" src="images/explicit rating/EDGE-Rec.png">| [Link](https://arxiv.org/abs/2409.14689)|
+|Differentially Private Recommendation Algorithm based on Diffusion Model and Rényi Similarity | Info Sci 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S002002552500698X)|
 
 - #### **Item Graph**
 
