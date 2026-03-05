@@ -2,7 +2,9 @@
 
 A survey of diffusion models in recommendation systems.
 
-![](images/taxonomy.png)
+<p align="center">
+  <img src="images/taxonomy_axis.png" width="800">
+</p>
 
 Detailed information can be found in our [survey paper](https://arxiv.org/pdf/2501.10548).
 
