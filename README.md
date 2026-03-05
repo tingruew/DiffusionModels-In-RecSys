@@ -145,13 +145,13 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
-|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="300" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
+|Diffkg: Knowledge graph diffusion model for recommendation | WSDM 2024 | <img width="800" alt="image" src="images/item graph/Diffkg.png">| [Link](https://arxiv.org/abs/2312.16890)|
 |RsDiff: Rational Score baesd Knowledge Graph Diffusion for Recommendation | Info Sci 2025 || [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025525004244)|
 |DAGR: DyHGSampler and AdaSGC-Based Knowledge Graph Diffusion for Recommendation | ICIC 2025 | | [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_11)|
-|TCM-DiffPR: knowledge graph diffusion model for personalized traditional Chinese medicine recommendation | JIIS 2025 | <img width="300" alt="image" src="images/knowledge graph/tcm.png"> | [Link](https://link.springer.com/article/10.1007/s10844-025-00994-w)|
-|DKGM: A diffusion knowledge graph model for medication recommendation leveraging medical and drug information | ICHI 2025 | <img width="300" alt="image" src="images/knowledge graph/dkgm.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11081566)|
-|Mask diffusion-based contrastive learning for knowledge-aware recommendation | TKDE 2025 | <img width="300" alt="image" src="images/knowledge graph/mask.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11049045)|
-|Knowledge-aware Diffusion-Enhanced Multimedia Recommendation | Multimedia 2025 | <img width="300" alt="image" src="images/knowledge graph/knowledge-aware.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175523)|
+|TCM-DiffPR: knowledge graph diffusion model for personalized traditional Chinese medicine recommendation | JIIS 2025 | <img width="800" alt="image" src="images/knowledge graph/tcm.png"> | [Link](https://link.springer.com/article/10.1007/s10844-025-00994-w)|
+|DKGM: A diffusion knowledge graph model for medication recommendation leveraging medical and drug information | ICHI 2025 | <img width="800" alt="image" src="images/knowledge graph/dkgm.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11081566)|
+|Mask diffusion-based contrastive learning for knowledge-aware recommendation | TKDE 2025 | <img width="800" alt="image" src="images/knowledge graph/mask.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11049045)|
+|Knowledge-aware Diffusion-Enhanced Multimedia Recommendation | Multimedia 2025 | <img width="800" alt="image" src="images/knowledge graph/knowledge-aware.png"> | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175523)|
 
 ---
 
