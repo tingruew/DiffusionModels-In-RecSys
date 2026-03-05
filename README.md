@@ -19,22 +19,23 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 ## Table of Contents
 - [Background in Diffusion Models](#background-in-diffusion-models)
 - [Papers for Diffusion Models in Recsys](#papers-for-diffusion-models-in-recsys)
-  -   [Collaborative Filtering](#collaborative-filtering)
-      -  [Implicit Feedback](#implicit-feedback)
-      -  [Explicit Ratings](#explicit-ratings)
-      -  [Item Graph](#item-graph)
-      -  [User Graph](#user-graph)
-  -   [Sequential Recommendation](#sequential-recommendation)
-      -  [Point-of-Interest](#point-of-interest)
-      -  [Sequence as Diffusion Target and Guidance](#sequence-as-diffusion-target-and-guidance)
-      -  [Sequence as Diffusion Target](#sequence-as-diffusion-target)
-      -  [Sequence as Diffusion Guidance](#sequence-as-diffusion-guidance)
-  -   [Multi-domain Recommendation](#multi-domain-recommendation)
+  -   [Core Recommendation Tasks](#core-recommendation-tasks)
+      -   [Collaborative Filtering](#collaborative-filtering)
+          -  [Implicit Feedback](#implicit-feedback)
+          -  [Explicit Ratings](#explicit-ratings)
+          -  [Item Graph](#item-graph)
+          -  [User Graph](#user-graph)
+      -   [Sequential Recommendation](#sequential-recommendation)
+          -  [Point-of-Interest](#point-of-interest)
+          -  [Sequence as Diffusion Target and Guidance](#sequence-as-diffusion-target-and-guidance)
+          -  [Sequence as Diffusion Target](#sequence-as-diffusion-target)
+          -  [Sequence as Diffusion Guidance](#sequence-as-diffusion-guidance)
+  -   [Data Modality and Domain](#data-modality-and-domain)
       -  [Image Generation](#image-generation)
       -  [Text-to-Recommendation](#text-to-recommendation)
-      -  [Multi-modal Attributes](#multi-modal-attributes)
-      -  [Cross-domain](#cross-domain)
-  -   [Responsible Recommendation](#responsible-recommendation)
+      -  [Multimodal Recommendation](#multimodal-recommendation)
+      -  [Cross-domain Recommendation](#cross-domain-recommendation)
+  -   [Trustworthy Objectives and Constraints](#trustworthy-objectives-and-constraints)
       -  [Fairness](#fairness)
       -  [Accountability](#accountability)
       -  [Transparency](#transparency)
@@ -126,6 +127,8 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Dual Graph Denoising Model for Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/dual.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714874)|
 |Model-Agnostic Social Network Refinement with Diffusion Models for Robust Social Recommendation | WWW 2025 | <img width="1200" alt="image" src="images/user graph/model-agnostic.png">| [Link](https://dl.acm.org/doi/10.1145/3696410.3714683)|
 
+- #### **Knowledge Graph**
+- 
 ---
 
 ### Sequential Recommendation
@@ -216,7 +219,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |Diffusion Model for Slate Recommendation | Arxiv 2024 |<img width="500" alt="image" src="images/text to rec/Diffusion.png">| [Link](https://arxiv.org/abs/2408.06883)|
 
-- #### **Multi-modal Attributes**
+- #### **Multimodal Recommendation**
 
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
@@ -228,7 +231,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Curriculum Conditioned Diffusion for Multimodal Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/multi-modal/curriculum.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33422)|
 |DiffKD: collaborative graph diffusion with knowledge distillation for multimodal recommendation | JIIS 2025 |<img width="1200" alt="image" src="images/multi-modal/diffkd.png">| [Link](https://arxiv.org/abs/2406.11781)|
 
-- #### **Cross-domain**
+- #### **Cross-domain Recommendation**
   
 |Title | Venue | Main Image | Paper|
 | :--- | :--: | :---: | :---: |
