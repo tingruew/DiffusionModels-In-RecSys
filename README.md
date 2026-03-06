@@ -325,7 +325,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | Bridging Interests and Truth: Towards Mitigating Fake News with Personalized and Truthful Recommendations | SIGIR 2025 |<img width="1200" alt="image" src="images/fairness/bridging.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729912)|
 |FairCDR: transferring fairness and user preferences for cross-domain recommendation | KDD 2025 |<img width="1200" alt="image" src="images/fairness/faircdr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3711896.3736951)|
 |Adversarial regularized diffusion model for fair recommendation | NN 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005751)|
-|Alleviating User-Sensitive Bias with Fair Generative Sequential Recommendation Model | ICIC 2025 |<img width="1200" alt="image" src="images/fairness/alleviating.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_19)|
+|Alleviating User-Sensitive Bias with Fair Generative Sequential Recommendation Model | ICIC 2025 || [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_19)|
 
 - #### **Accountability**
 
