@@ -322,6 +322,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation | Arxiv 2024 |<img width="250" alt="image" src="images/fairness/Guided.png">| [Link](https://arxiv.org/abs/2410.21892)|
 |DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/Diffairec.png">| [Link](https://arxiv.org/abs/2410.02791)|
 |How Fair is Your Diffusion Recommender Model? | Arxiv 2024 |<img width="1200" alt="image" src="images/fairness/How.png">| [Link](https://arxiv.org/abs/2409.04339)|
+| Bridging Interests and Truth: Towards Mitigating Fake News with Personalized and Truthful Recommendations | SIGIR 2025 |<img width="1200" alt="image" src="images/fairness/bridging.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729912)|
+|FairCDR: transferring fairness and user preferences for cross-domain recommendation | KDD 2025 |<img width="1200" alt="image" src="images/fairness/faircdr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3711896.3736951)|
+|Adversarial regularized diffusion model for fair recommendation | NN 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005751)|
+|Alleviating User-Sensitive Bias with Fair Generative Sequential Recommendation Model | ICIC 2025 |<img width="1200" alt="image" src="images/fairness/alleviating.png">| [Link](https://link.springer.com/chapter/10.1007/978-981-96-9881-3_19)|
 
 - #### **Accountability**
 
@@ -336,6 +340,7 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Latent diffusion model-based data poisoning attack against QoS-aware cloud API recommender system | Computer Networks 2025 | | [Link](https://www.sciencedirect.com/science/article/abs/pii/S138912862500088X)|
 |FedDiffRec: A Module-wise Training Approach for Diffusion-Based Recommendation in Federated Learning | ICASSP 2025 |<img width="1200" alt="image" src="images/accountability/feddiffrec.png">| [Link](https://ieeexplore.ieee.org/document/10889647)|
 |An Adversarial Model with Diffusion for Robust Recommendation against Shilling Attack| SAC 2025 |<img width="1200" alt="image" src="images/accountability/an.png">| [Link](https://dl.acm.org/doi/10.1145/3672608.3707821)|
+|Controllable and Stealthy Shilling Attacks via Dispersive Latent Diffusion| Arxiv 2025 |<img width="1200" alt="image" src="images/accountability/controllable.png">| [Link](https://arxiv.org/pdf/2508.01987)|
 
 -  #### **Transparency**
 
@@ -349,3 +354,5 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 | :--- | :--: | :---: | :---: |
 |Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation | WWW 2025 |<img width="1200" alt="image" src="images/out of distribution/Graph.png">| [Link](https://arxiv.org/abs/2408.00490)|
 |Distributionally robust graph out-of-distribution recommendation via diffusion model | WWW 2025 |<img width="1200" alt="image" src="images/out of distribution/distributionally.png">| [Link](https://arxiv.org/abs/2501.15555)|
+|A Distributed Robust Out-of-Distribution Consumer Recommendation System Using Diffusion Model | TCE 2025 || [Link](https://ieeexplore.ieee.org/document/11215749)|
+| Causal Negative Sampling via Diffusion Model for Out-of-Distribution Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/out of distribution/causal.png">| [Link](https://arxiv.org/pdf/2508.07243)|
