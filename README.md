@@ -254,6 +254,17 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diffusion Models for Generative Outfit Recommendation | SIGIR 2024 |<img width="1200" alt="image" src="images/image generation/Diffusion.png">| [Link](https://arxiv.org/abs/2402.17279)|
 |GEMRec: Towards Generative Model Recommendation | WSDM 2024 |<img width="1200" alt="image" src="images/image generation/GEMRec.png">| [Link](https://arxiv.org/abs/2308.02205)|
 |Recommendations Beyond Catalogs: Diffusion Models for Personalized Generation | Arxiv 2025 |<img width="1200" alt="image" src="images/image generation/recommendations.png">| [Link](https://arxiv.org/abs/2502.18477)|
+|CTR-Driven Advertising Image Generation with Multimodal Large Language Models | WWW 2025 |<img width="1200" alt="image" src="images/image generation/ctr-driven.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3696410.3714836)|
+|Virtualmodel: Generating object-id-retentive human-object interaction image by diffusion model for e-commerce marketing | Arxiv 2024 |<img width="1200" alt="image" src="images/image generation/virtualmodel.png">| [Link](https://arxiv.org/pdf/2405.09985)|
+|Planning and rendering: Towards product poster generation with diffusion models | Arxiv 2023 |<img width="1200" alt="image" src="images/image generation/planning.png">| [Link](https://arxiv.org/pdf/2312.08822)|
+|Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items | KDD 2026 |<img width="1200" alt="image" src="images/image generation/sell.png">| [Link](https://arxiv.org/pdf/2503.22182)|
+|Chaining text-to-image and large language model: A novel approach for generating personalized e-commerce banners | KDD 2024 || [Link](https://dl.acm.org/doi/epdf/10.1145/3637528.3671636)|
+|Personalized image generation with large multimodal models | WWW 2025 |<img width="1200" alt="image" src="images/image generation/personalized.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3696410.3714843)|
+|RAGAR: Retrieval Augment Personalized Image Generation Guided by Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/image generation/ragar.png">| [Link](https://arxiv.org/pdf/2505.01657)|
+|MMCRec: Towards Multi-modal Generative AI in Conversational Recommendation | ECIR 2024 || [Link](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_23)|
+|Pmg: Personalized multimodal generation with large language models | WWW 2024 |<img width="1200" alt="image" src="images/image generation/pmg.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3589334.3645633)|
+|Generative recommendation: Towards next-generation recommender paradigm | Arxiv 2023 |<img width="1200" alt="image" src="images/image generation/generative.png">| [Link](https://arxiv.org/pdf/2304.03516)|
+|Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models | Arxiv 2025 || [Link](https://arxiv.org/pdf/2501.15571)|
 
 - #### **Text-to-recommendation**
 
@@ -272,6 +283,15 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations | Arxiv 2025 |<img width="1200" alt="image" src="images/multi-modal/diffcl.png">| [Link](https://arxiv.org/abs/2501.01066)|
 |Curriculum Conditioned Diffusion for Multimodal Recommendation | AAAI 2025 |<img width="1200" alt="image" src="images/multi-modal/curriculum.png">| [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33422)|
 |DiffKD: collaborative graph diffusion with knowledge distillation for multimodal recommendation | JIIS 2025 |<img width="1200" alt="image" src="images/multi-modal/diffkd.png">| [Link](https://arxiv.org/abs/2406.11781)|
+|ITCoHD-MRec: An Independent Topological Preference Aware and Cooperative Hypergraph Diffusion based Multimodal Recommender Model | TOIS 2025 |<img width="1200" alt="image" src="images/multi-modal/itcohd.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3767337)|
+|MDSBR: Multimodal Denoising for Session-based Recommendation | RecSys 2025 |<img width="1200" alt="image" src="images/multi-modal/mdsbr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3705328.3748061)|
+|Generating Difficulty-aware Negative Samples via Conditional Diffusion for Multi-modal Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/multi-modal/generating.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729986)|
+|Generating with fairness: A modality-diffused counterfactual framework for incomplete multimodal recommendations | WWW 2025 |<img width="1200" alt="image" src="images/multi-modal/generating-with.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3696410.3714606)|
+|Flip is Better than Noise: Unbiased Interest Generation for Multimedia Recommendation | MM 2025 |<img width="1200" alt="image" src="images/multi-modal/flip.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3755743)|
+|Boosting Guided Diffusion with Large Language Models for Multimodal Sequential Recommendation | MM 2025 |<img width="1200" alt="image" src="images/multi-modal/boosting.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3755544)|
+|Diffusion-based multi-modal synergy interest network for click-through rate prediction | SIGIR 2025 |<img width="1200" alt="image" src="images/multi-modal/diffusion-based.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729949)|
+|Dual-layer cross-modal alignment recommendation based on the diffusion model | Info Fusion 2026 || [Link](https://www.sciencedirect.com/science/article/pii/S1566253525005457)|
+|Asymmetric Diffusion Recommendation Model | CIKM 2025 |<img width="1200" alt="image" src="images/multi-modal/asymmetric.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746252.3760833)|
 
 - #### **Cross-domain Recommendation**
   
@@ -280,6 +300,10 @@ Detailed information can be found in our [survey paper](https://arxiv.org/pdf/25
 |Diffusion Cross-domain Recommendation | Arxiv 2024 |<img width="1200" alt="image" src="images/cross-domain/Diffusion.png">| [Link](https://arxiv.org/abs/2402.02182)|
 |Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation | WSDM 2024 |<img width="250" alt="image" src="images/cross-domain/Diff-msr.png">| [Link](https://dl.acm.org/doi/10.1145/3616855.3635807)|
 |Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation | KDD 2025 |<img width="1200" alt="image" src="images/cross-domain/exploring.png">| [Link](https://arxiv.org/abs/2501.11671)|
+|LLM-Grounded Diffusion for Cross-Domain Recommendation | MM 2025 |<img width="1200" alt="image" src="images/cross-domain/llm-grounded.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3746027.3755347)|
+| Align-for-Fusion: Harmonizing Triple Preferences via Dual-oriented Diffusion for Cross-domain Sequential Recommendation | Arxiv 2025 |<img width="1200" alt="image" src="images/cross-domain/align.png">| [Link](https://arxiv.org/pdf/2508.05074)|
+|Diffusion Alignment for Cross Domain Recommendation | ICMR 2025 |<img width="1200" alt="image" src="images/cross-domain/diffusion-alignment.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3731715.3733307)|
+|CD-CDR: Conditional Diffusion-based Item Generation for Cross-Domain Recommendation | SIGIR 2025 |<img width="1200" alt="image" src="images/cross-domain/cdcdr.png">| [Link](https://dl.acm.org/doi/epdf/10.1145/3726302.3729918)|
 
 ---
 
