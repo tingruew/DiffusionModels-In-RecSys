@@ -6,14 +6,14 @@ A survey of diffusion models in recommendation systems.
   <img src="images/taxonomy_axis.png" width="800">
 </p>
 
-Detailed information can be found in our [survey paper](https://arxiv.org/pdf/2501.10548).
+Detailed information can be found in our [survey paper](https://arxiv.org/pdf/2501.10548) accepted by ACM TORS.
 
 ```Bibtex
-@article{wei2025diffusion,
-  title={Diffusion Models in Recommendation Systems: A Survey},
+@article{wei2026diffusion,
+  title={Diffusion models in recommendation systems: A survey},
   author={Wei, Ting-Ruen and Fang, Yi},
-  journal={arXiv preprint arXiv:2501.10548},
-  year={2025}
+  journal={ACM Transactions on Recommender Systems},
+  publisher={ACM New York, NY}
 }
 ```
 ## Table of Contents
